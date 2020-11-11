@@ -1,0 +1,6 @@
+<launch>
+    
+<!-- Launch i2cpwm_board node -->
+<node pkg="i2cpwm_board" type="i2cpwm_board_node" name="i2cpwm_node" output="screen" />
+
+</launch>
